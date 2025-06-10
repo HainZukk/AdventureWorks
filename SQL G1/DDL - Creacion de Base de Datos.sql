@@ -1,0 +1,3 @@
+# DML
+# CREATE DATABASE AdventureWorks;
+
